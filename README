@@ -1,0 +1,1 @@
+This repo contains GRPC Client (Shopping Cart Service) Which expose REST API to get the shopping cart with product list and call to billing service using GRPC to calculate the total bill
