@@ -11,7 +11,7 @@
     <groupId>com.org.archi.grpc</groupId>
     <artifactId>grpc-shopping-cart</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>grpc-shopping-cart</name>
+    <name>grpc-client-shopping-cart</name>
     <description>Shopping Cart Service - GRPC Client</description>
     <properties>
         <java.version>11</java.version>
